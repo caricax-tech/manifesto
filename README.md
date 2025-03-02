@@ -20,7 +20,7 @@ Desenvolvemos e implementamos soluções de TI funcionais, acessíveis e persona
 *   **Open Source:** Rejeitamos a tirania do software proprietário! Somos frutos da comunidade open-source, construída através da colaboração, transparência e a troca livre de conhecimento. O código pertence a todos!
 *   **Impacto Social Sustentável:** Diferentemente de nossa origem, a saber, a Florianópolis, nossa visão não está ilhada. Nos comprometemos com o desenvolvimento de economias locais, fortalecendo as MPEs, gerando empregos e elevando o nível de conhecimento tecnológico a partir do aumento de usuários Linux.
 *   **Qualidade de Vida – Tecnologia para a Libertação Humana:** Nós *não* somos engrenagens em uma máquina. Nosso modelo *remote-first* e cultura organizacional priorizam o bem-estar, a autonomia e a responsabilidade coletiva. A tecnologia deve servir à humanidade, não o contrário.
-**Transdisciplinaridade:** Reconhecemos a força inerente na integração de diversas áreas do conhecimento. Não nos limitemos a 0s e 1s; mergulhemos, pois, na fonte de inovação, pensamento abrangente e soluções resilientes.
+* **Transdisciplinaridade:** Reconhecemos a força inerente na integração de diversas áreas do conhecimento. Não nos limitemos a 0s e 1s; mergulhemos, pois, na fonte de inovação, pensamento abrangente e soluções resilientes.
 *   **Software como um Direito:** Contra o paradigma de servidão digital chamado "Software-as-a-Service"! Software não é um privilégio; é um direito, essencial para a participação no mundo moderno. Construiremos, pois, as ferramentas para a libertação.
 
 ## Vem!
