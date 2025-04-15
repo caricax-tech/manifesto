@@ -14,20 +14,6 @@ Our logo consists of two primary elements: the Symbol and the Wordmark. They can
 *   **Wordmark:** The name "CARICAX" presented in the Noto Serif typeface, featuring a gradient transitioning from `#fe6d03` to `#08c408`.
     *   *(Visual representation available in the attached image)*
 
-*   **Primary Lockup (Suggestion):**
-    *   **Vertical:** Symbol placed above the Wordmark.
-    *   **Horizontal:** Symbol placed to the left of the Wordmark.
-    *(Note: Formal lockups need to be designed, ensuring proper spacing and alignment).*
-
-*   **Clear Space:** Maintain a minimum clear space around the logo (Symbol or Lockup) to ensure visibility and impact. This space should be equivalent to the height of the circle within the Symbol or the height of the 'X' in the Wordmark.
-*   **Minimum Size:** Ensure the logo is always legible. The Symbol should not be used below [Specify Minimum Width, e.g., 20px] width, and the Wordmark should not be used below [Specify Minimum Width, e.g., 60px] width in digital applications. Print minimums may vary.
-*   **Logo Misuse (Don'ts):**
-    *   Do not squash, stretch, or distort the logo proportions.
-    *   Do not change the logo's colors or gradients (except for approved single-color variations).
-    *   Do not rotate the logo.
-    *   Do not add extraneous effects like drop shadows, glows, or bevels.
-    *   Do not place the logo on busy backgrounds that impair legibility. Use a solid color background or a container if necessary.
-    *   Do not rearrange the elements of an official lockup.
 
 **3. Color Palette**
 
@@ -87,7 +73,7 @@ Our voice is:
 
 Visuals should align with our values:
 
-*   **Themes:** Collaboration, community, local entrepreneurs interacting with technology, abstract representations of code/networks (using our color palette), growth, empowerment.
+*   **Themes:** Collaboration, community (*Carianos, Florianópolis*), local entrepreneurs interacting with technology, abstract representations of code/networks (using our color palette), growth, empowerment.
 *   **Style:** Authentic, grounded, human-centered.
 
 **7. Sub-brands / Initiatives**
