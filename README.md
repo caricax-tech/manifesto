@@ -50,7 +50,7 @@ Our typography balances professionalism and accessibility.
 
 Our voice is:
 
-*   OPENSOURCE
+*   **OPEN SOURCE**
 *   Passionate & Principled
 *   Defiant & Empowering
 *   Community-Oriented & Collaborative
@@ -66,7 +66,7 @@ Our voice is:
 *   "Social impact"
 *   "Sustainability"
 *   "Accessibility"
-*   "Digital literacy as driving force for changing"
+*   **"Digital literacy as driving force for the future!"**
 
 
 **6. Imagery & Visual Style**
