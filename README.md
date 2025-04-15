@@ -103,8 +103,7 @@ Desenvolvemos e implementamos soluções de TI funcionais, acessíveis e persona
 *   **Impacto Social Sustentável:** Diferentemente de nossa origem, a saber, Florianópolis, nossa visão não está ilhada. Nos comprometemos com o desenvolvimento de economias locais, fortalecendo as MPEs, gerando empregos e elevando o nível de conhecimento tecnológico a partir do aumento de usuários Linux.
 *   **Qualidade de Vida:** Nosso modelo *remote-first* e cultura organizacional priorizam o bem-estar, a autonomia e a responsabilidade coletiva. A tecnologia deve servir à humanidade, não o contrário.
 * **Transdisciplinaridade:** Reconhecemos a força inerente na integração de diversas áreas do conhecimento. Não nos limitemos a 0s e 1s; mergulhemos, pois, na fonte de inovação, pensamento abrangente e soluções *out-of-the-box*.
-*   **Software como um Direito:** Contra o paradigma de servidão digital chamado "Software-as-a-Service"! Software não é um privilégio; é um direito, atualmente indispensável.
-
+*   **Software como um Direito:** Contra o paradigma de servidão digital chamado "Software-as-a-Service"! Software não é um privilégio; é um direito.
 ## Vem!
 
 Explore nossos repositórios. Contribua com seu código, reporte *bugs*, junte-se à discussão. Por um futuro tecnológico justo!
