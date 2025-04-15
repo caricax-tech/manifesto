@@ -1,4 +1,4 @@
-## Caricax Brand Assets & Guidelines (Draft V1.4)
+## Caricax Brand Assets & Guidelines (Draft)
 
 **1. Introduction: Our Core**
 
@@ -97,5 +97,5 @@ Visuals should align with our values:
 **[8. Manifesto](https://github.com/caricax-tech/manifesto?tab=readme-ov-file#manifesto)**
 
 **9. Attachements**
-![Logo](image-1.png)
+![Logo](image-2.png)
 ![Logo](image.png)
