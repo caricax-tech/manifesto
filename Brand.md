@@ -97,5 +97,6 @@ Visuals should align with our values:
 **[8. Manifesto](https://github.com/caricax-tech/manifesto?tab=readme-ov-file#manifesto)**
 
 **9. Attachements**
+
 ![Logo](image-2.png)
 ![Logo](image.png)
